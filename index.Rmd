@@ -1,6 +1,6 @@
 ---
 title: "IODS course project"
-output: Author:"Obed"
+output: Author:"ObedAsamoah"
   html_document: 
     theme: cosmo
     toc: true
@@ -10,9 +10,6 @@ output: Author:"Obed"
     fig_height: 4
 ---
 
-git config --global user.email "obeda@uef.fi"
-git config --global user.name "Obed"
-Omit --global to set the identity only in this repository.
 
 # Introduction to Open Data Science - Course Project
 
